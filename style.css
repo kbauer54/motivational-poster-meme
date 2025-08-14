@@ -9,17 +9,31 @@ h1 {
   font-style: normal;
   text-transform: uppercase;
   font-size: 3rem;
+  color: #1e8bcb;
+  margin-bottom: 5px;
+}
+
+p {
+  font-family: "Libertinus Sans", sans-serif;
+  font-weight: 500;
+  font-size: 1.1rem;
+  font-style: normal;
+  font-variant: small-caps;
 }
 
 .photo {
-   border: 5px solid white;
    width: 100%;
+   display: block;
 }
 
 .poster {
    width: 50%;
    margin-left: 25%;
-   margin-top: 10%;
+   margin-top: 5%;
    text-align: center;
 }
 
+.photo-border {
+   border: 4px solid #1e8bcb;
+   padding: 2px;
+}
