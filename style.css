@@ -14,11 +14,11 @@ h1 {
 }
 
 p {
-  font-family: "Libertinus Sans", sans-serif;
-  font-weight: 500;
-  font-size: 1.1rem;
+  font-family: "Playfair Display", serif;
+  font-optical-sizing: auto;
+  font-weight: 300;
   font-style: normal;
-  font-variant: small-caps;
+  font-size: 1.1rem;
 }
 
 .photo {
